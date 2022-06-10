@@ -1,2 +1,2 @@
 # Frenetic
-Scripts of the game Frenetic, released on Google Play in 2021, the same year
+Scripts of my most successful game Frenetic, released on Google Play in 2021, written in the same year
